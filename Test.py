@@ -7,4 +7,4 @@ stats = iex_stats()
 intraday = iex_stats(date_format='datetime').intraday()
 print(aapl.stats())
 
-
+# test line
